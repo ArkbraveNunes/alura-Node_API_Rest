@@ -1,0 +1,19 @@
+{
+  "name": "alura-node_api_rest",
+  "version": "1.0.0",
+  "description": "Application Node API Rest",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkbraveNunes/alura-Node_API_Rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArkbraveNunes/alura-Node_API_Rest/issues"
+  },
+  "homepage": "https://github.com/ArkbraveNunes/alura-Node_API_Rest#readme"
+}
